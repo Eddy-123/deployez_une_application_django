@@ -7,7 +7,7 @@ before_script:
 
 branches:
   only:
-    - stagging
+    - staging
 
 env: DJANGO_SETTINGS_MODULE="disquaire_project.settings.travis"
 
